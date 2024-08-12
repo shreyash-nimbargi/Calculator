@@ -1,0 +1,1 @@
+This repository contains a simple, responsive calculator web application built using HTML, CSS, and JavaScript. The calculator is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It has a clean and modern interface, making it easy to use across different devices.
